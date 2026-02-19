@@ -1,9 +1,4 @@
-# 실제 코드 구현 문서 (모든 API 공통 적용, Spring Boot 4.0.1 + Java 25 + Gradle + Web + Data JDBC)
-
-## 0) 적용 범위
-본 구현 가이드는 **모든 API 유형**(Public/Partner/Internal/Admin/Event-Driven API)에 동일하게 적용합니다.
-
----
+# 실제 코드 구현 문서 (Spring Boot 4.0.1 + Java 25 + Gradle + Web + Data JDBC)
 
 ## 1) 먼저 읽기 (권장 순서)
 1. `docs/01-hexagonal-architecture-definition.md`에서 규칙 확인
