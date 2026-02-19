@@ -18,3 +18,18 @@
 - 마케팅: 쿠폰 발급(Redis TTL)
 - 카탈로그: 상품 요약 조회 캐시(read-through)
 
+
+
+## 독립 실행 예제 서비스 (5개)
+아래 폴더는 각각 독립적인 Gradle/Spring Boot 서비스입니다.
+- `examples/case1-service`
+- `examples/case2-service`
+- `examples/case3-service`
+- `examples/case4-service`
+- `examples/case5-service`
+
+실행 예시:
+```bash
+cd examples/case1-service
+gradle -p . bootRun
+```

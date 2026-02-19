@@ -14,7 +14,7 @@
 - Java Toolchain 25
 - 의존성: web, data-jdbc, validation, data-redis
 
-> 구현 파일: `build.gradle.kts`, `settings.gradle.kts`
+> 구현 파일: `build.gradle`, `settings.gradle`
 
 ---
 
