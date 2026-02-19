@@ -4,7 +4,7 @@
 - 아키텍쳐 정의: `docs/01-hexagonal-architecture-definition.md`
 - 구현 가이드: `docs/02-implementation-guide-springboot4-java25.md`
 - 시나리오 예제집(5개): `docs/03-scenario-examples-playbook.md`
-- 샘플 코드: `src/main/java/com/example/hexagonal`
+- 샘플 코드(독립 서비스): `examples/case*-service`
 
 ## 이 저장소에서 바로 보는 포인트
 1. **의존성 규칙**: Adapter → Application → Domain
